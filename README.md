@@ -1,6 +1,6 @@
-## Ex.No: 07                                       AUTO REGRESSIVE MODEL
-## Develoloed by : Vasanth P
-## Reg No : 212222240113
+### Ex.No: 07                                       AUTO REGRESSIVE MODEL
+### Developed by : Vasanth P
+### Reg No : 212222240113
 ### Date: 
 
 
